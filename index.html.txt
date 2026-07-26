@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy - LYBEL: Last Key Belitung</title>
+<style>
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width:900px;
+    margin:auto;
+    padding:40px;
+    line-height:1.8;
+    color:#333;
+}
+h1,h2{
+    color:#1E88E5;
+}
+.box{
+    background:#f5f5f5;
+    padding:20px;
+    border-radius:10px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Privacy Policy</h1>
+
+<div class="box">
+<strong>Application:</strong> LYBEL: Last Key Belitung<br>
+<strong>Effective Date:</strong> July 26, 2026
+</div>
+
+<p>
+Thank you for using <strong>LYBEL: Last Key Belitung</strong>.
+Your privacy is important to us. This Privacy Policy explains how we handle information when you use our application.
+</p>
+
+<h2>1. Information We Collect</h2>
+
+<p>
+This application does not require users to create an account or log in.
+</p>
+
+<p>
+We do not collect personal information such as:
+</p>
+
+<ul>
+<li>Name</li>
+<li>Email address</li>
+<li>Phone number</li>
+<li>Location</li>
+<li>Contacts</li>
+<li>Camera or Photos</li>
+</ul>
+
+<h2>2. Advertisements</h2>
+
+<p>
+This application displays advertisements provided by third-party advertising services. These services may collect certain device information required to display and improve advertisements according to their own privacy policies.
+</p>
+
+<h2>3. How We Use Information</h2>
+
+<p>
+Since we do not collect personal information directly, we do not store, share, or sell users' personal data.
+</p>
+
+<h2>4. Security</h2>
+
+<p>
+We strive to provide a secure experience for all users and continuously improve the safety of our application.
+</p>
+
+<h2>5. Children's Privacy</h2>
+
+<p>
+This application is intended for general audiences. We do not knowingly collect personal information from children.
+</p>
+
+<h2>6. Changes to This Privacy Policy</h2>
+
+<p>
+We may update this Privacy Policy from time to time. Any changes will be posted on this page.
+</p>
+
+<h2>7. Contact Us</h2>
+
+<p>
+If you have any questions regarding this Privacy Policy, please contact us:
+</p>
+
+<p>
+<b>Developer:</b> LYBEL Development Team<br>
+<b>Email:</b> GANTI_DENGAN_EMAIL_KAMU
+</p>
+
+<hr>
+
+<p style="text-align:center">
+© 2026 LYBEL: Last Key Belitung
+</p>
+
+</body>
+</html>
